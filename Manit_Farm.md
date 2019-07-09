@@ -2,7 +2,7 @@
 ควบคุมการตั้งเวลาผ่านมือถือเพื่อเปิดปิด relayโดยใช้ esp(sleep mode)
 แผนที่ปั๊มsolinoid 
 
-สีแดงคือปั๊มที่ใช้งาน[Screen-Shot-2562-06-13-at-13-31-45.png](https://i.postimg.cc/q7vsfpxr/Screen-Shot-2562-06-13-at-13-31-45.png)](https://postimg.cc/yD2gc4Gp)
+![สีแดงคือปั๊มที่ใช้งาน](https://i.postimg.cc/q7vsfpxr/Screen-Shot-2562-06-13-at-13-31-45.png)](https://postimg.cc/yD2gc4Gp)
 
 ![สีเหลืองคือปั๊มที่กำลังจะใช้งาน](https://paper-attachments.dropbox.com/s_D33392CF3AADF5ACDCB3063E45C275FE90D56E2ED3678B87C38FFF19E471F92B_1562676116564_Screen+Shot+2562-06-13+at+13.39.12.png)
 
