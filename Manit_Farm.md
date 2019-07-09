@@ -1,9 +1,12 @@
 # Manit Farm
 ควบคุมการตั้งเวลาผ่านมือถือเพื่อเปิดปิด relayโดยใช้ esp(sleep mode)
+แผนที่ปั๊มsolinoid 
 
-![จุดที่ติดตั้งปั๊ม(สีแดงใช้งาน)](https://paper-attachments.dropbox.com/s_D33392CF3AADF5ACDCB3063E45C275FE90D56E2ED3678B87C38FFF19E471F92B_1562671488996_Screen+Shot+2562-06-13+at+13.31.45.png)
+![สีแดงคือปั๊มที่ใช้งาน](https://paper-attachments.dropbox.com/s_D33392CF3AADF5ACDCB3063E45C275FE90D56E2ED3678B87C38FFF19E471F92B_1562676080115_Screen+Shot+2562-06-13+at+13.31.45.png)
 
-![จุดที่ติดตั้งปั๊ม(เหลืองกำลังจะใช้งาน)](https://paper-attachments.dropbox.com/s_D33392CF3AADF5ACDCB3063E45C275FE90D56E2ED3678B87C38FFF19E471F92B_1562671623473_Screen+Shot+2562-06-13+at+13.39.12.png)
+![สีเหลืองคือปั๊มที่กำลังจะใช้งาน](https://paper-attachments.dropbox.com/s_D33392CF3AADF5ACDCB3063E45C275FE90D56E2ED3678B87C38FFF19E471F92B_1562676116564_Screen+Shot+2562-06-13+at+13.39.12.png)
+
+
 
 # Esp Power consumption
 ## Inside ESP32 chip
